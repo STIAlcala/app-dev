@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# My favorite movie
+My favorite film is **Suicide Squad**. In the aftermath of Superman's death, intelligence officer Amanda Waller persuades the US government to approve Task Force X, a response team of criminals and supervillains. The team will be used to combat metahuman threats under Waller's command by implanting nanite bombs in each criminal's neck, which can be remotely detonated if they attempt to rebel or flee. If they are successful, their sentences will be shortened. The Suicide Squad featured a slew of villains, including Harley Quinn and Deadshot, two of my favorite characters in the film.🥰🥰🥰
+Here's a link to the Rotten Tomatoes movie rating: [Suicide Squad Rating](https://www.rottentomatoes.com/m/suicide_squad_2016)
